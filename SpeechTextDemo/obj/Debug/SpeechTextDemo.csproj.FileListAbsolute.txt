@@ -1,0 +1,14 @@
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\bin\Debug\SpeechTextDemo.exe.config
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\bin\Debug\SpeechTextDemo.exe
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\bin\Debug\SpeechTextDemo.pdb
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo.csprojResolveAssemblyReference.cache
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\MainWindow.g.cs
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\App.g.cs
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo_MarkupCompile.cache
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo_MarkupCompile.lref
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\MainWindow.baml
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo.g.resources
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo.Properties.Resources.resources
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo.csproj.GenerateResource.Cache
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo.exe
+E:\个人项目\学习实验\DoNet\wpf\SpeechTextDemo\SpeechTextDemo\obj\Debug\SpeechTextDemo.pdb
